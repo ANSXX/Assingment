@@ -1,5 +1,5 @@
 import React from 'react';
-import ChartComponent from 'H:/Assingment/frontend/src/components/ChartComponents';
+import ChartComponent from './ChartComponent';
 
 function Dashboard() {
   return (
